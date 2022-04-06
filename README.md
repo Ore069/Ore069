@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there 👋 I'm Olesya
 
-<!--
-**Ore069/Ore069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Profile views](https://gpvc.arturio.dev/Ore069)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a beginner web-developer
+- 💪 I like coding
+- 🌱 Always learning new things
+- 💬 Ready for discussions and making new projects
+- 👨‍💻 Skills: HTML&CSS 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ore069)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ore069&show_icons=true)  
